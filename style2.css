@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    background-color: FFD2D2;
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: local("Roboto"),
+         url("GOTHIC.woff") format("woff");}
+
+.od{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 2%;
+}
+.Ho{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 37px;
+    padding-top: 2%;
+}
+.hok{
+    margin-left: 25%;
+}
+.depr{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: 10%;
+    margin-left: 20%;
+    
+}
+.deprr{
+    margin-left: 3%;
+    
+}
+.lov{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 37px;
+    margin-left: 60%;
+    margin-top: -40%;
+    background-color: rgb(255, 255, 255, 0.15);
+}
+.est{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 37px;
+    width: 40%;
+    margin-left: 60%;
+    background-color: rgb(255, 255, 255, 0.15);
+    
+}
+.esso{
+    margin-left: 60%;
+}
+.kashel{
+    margin-top: 5%;
+    width: 50%;
+
+}
+.hod{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 50px;
+text-align: left;
+width: 40%;
+margin-top: -45%;
+margin-left: 56%;
+}
+
+.no{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 50px;
+text-align: left;
+width: 40%;
+margin-left:56% ;
+}
+.ogr{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 50px;
+text-align: left;
+width: 40%;
+margin-left:56% ;
+
+}
+.ochki{
+    margin-top: 5%;
+    margin-left: 1%;}
+   
+.ochki2{
+    margin-left: 55%;
+    margin-top: -43%;
+}
+.pravika{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 48px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: -43%;
+    
+}
+.sp1{
+    padding-left: 20%;
+}
+.pravika2{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 48px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+    text-align: center;
+    margin-left: 30%;
+  
+}
+.pravika3{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 48px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+    text-align: center;
+    margin-left: 52%;
+    width: 40%;
+}
+.sp2{
+    padding-left: 20%;
+}
+.kaya{
+    margin-top: 7%;
+    margin-left: 3%;
+}
+.pravika4{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 45px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+    margin-left: 41%;
+    width: 100%;
+}
+.pravika5{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 45px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+    margin-left: 55%;
+    width: 45%;
+}
+.cont4{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+
+}
+.esli{
+    font-weight: bolder;
+    Font-size: 50px;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.esli2{
+    font-weight: bolder;
+    Font-size: 50px;
+    margin-top: 5%;
+    margin-left: 28%;
+}
+.esli3{
+    font-weight: bolder;
+    Font-size: 50px;
+    margin-top: 10%;
+    margin-left: 28%;
+}
+.sup{
+    margin-top: -15%;
+    margin-left: 50%;
+}
+.ya{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    Font-size: 55px;
+    Line-height: 59px;
+    Letter-spacing: 7px;
+    width: 70%;
+   text-align: center;
+   color: red;
+   font-weight: bolder;
+   margin-left: 15%;
+
+}
+.gg{
+    margin-left: 25%;
+}
+.gif{
+    margin-top: -50%;
+}

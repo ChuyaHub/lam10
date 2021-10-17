@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    background-color: FFD2D2;
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    /* Браузер сначала попробует найти шрифт локально */
+    src: local("Roboto"),
+         url("GOTHIC.woff") format("woff");}
+
+h1{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 2%;
+}
+.ph1{padding-left: 3%;}
+h2{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(255, 255, 255, 0.15);
+}
+h3{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 50px;
+}
+
+.лиляглав{
+    margin-left: 14%;
+    padding-right: 5%;
+}
+h4{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 40%;
+    margin-top: -3%;
+}
+h5{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 80%;
+    margin-top: -2%;}
+    
+.text1lil{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 36px;
+    width: 40%;
+    margin-top: -45%;
+    margin-left: 42%;
+}   
+.text1lil2{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 36px;
+    width: 40%;
+    margin-left: 42%;
+}   
+.text1lil3{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 36px;
+    width: 40%;
+    margin-left: 42%;
+}
+.text1lil4{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 36px;
+    width: 40%;
+    margin-left: 42%;
+}
+.text1lil5{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 36px;
+    width: 40%;
+    margin-left: 42%;
+}
+.text1lil6{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: left;
+    font-size: 70px;
+    width: 40%;
+    margin-left: 42%;
+}
+
+.container3{
+margin-top: -2%;
+padding: 5%;
+}
+.text1lil7{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    text-align: center;
+    font-size: 50px;
+    margin-top: -3%;
+    background-color: rgb(255, 255, 255, 0.15);
+}
+.gym{
+    margin-left: 15%;
+    padding-right: 5%;
+
+}
+.mat{
+    margin-top: 3%;
+   margin-left: 3%;
+   padding-right: 5%;
+}
+.mateh{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+ margin-left: 5%;
+    font-size: 30px;
+}
+.tigr{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+ margin-left: 56%;
+ width: 30%;
+    font-size: 30px;
+    margin-top: -4%;
+}
+.ch{
+    margin-left: 30%;
+}
+.err{
+    text-align: center;
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+    font-size: 50px;
+}
+video{
+width: 50%;
+padding-top: -5%;
+margin-left: 23%;
+}
+.bon{
+    Font-family: Century Gothic;
+    Font-style: Regular;
+    font-weight: 400;
+ text-align: center;
+ font-size: 50px;
+ margin-top: 5%;
+}
